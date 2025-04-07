@@ -1,0 +1,22 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+  
+#image {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin: auto;
+}
+
+#bibliography {
+    max-width: 50%;
+    margin: auto;
+    text-align: left;
+}
+
+#quote-container {
+    font-size: 2rem;
+    margin: 20% 0 20% 0;
+}
